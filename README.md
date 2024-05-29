@@ -46,6 +46,7 @@ Tools:  Kubernetes, Prometheus, Python, Go, Docker, Git, GitHub,  Airflow, Jupyt
 
 EDUCATION:
 Specialist in Engineering, 2005
+
 LANGUAGES:
 English A2
 Ukrane Native
