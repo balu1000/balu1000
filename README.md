@@ -3,6 +3,7 @@ Vitalii Bielykh
 DevOps Engineer
 
 SUMMARY:
+
 •	Software Engineer, DevOps Engineer, a self-starter, and a hands-on leader who loves technology. Docker, K8s. Like to learn every day.
 
 •	Good knowledge of new technologies and exposure to many programming languages, technologies, and platforms.
