@@ -25,7 +25,9 @@ Technologies:
 •	Git
 •	GitHub
 •	Terraform
-•	AWS Cloud 
+•	AWS Cloud
+•	GCP
+•	Vmware ESXI virtualization
 •	Docker
 •	Linux
 •	Python
