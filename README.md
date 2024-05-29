@@ -10,8 +10,8 @@ SUMMARY:
 
 •	A clear understanding of the Software Development Life Cycle, Continuous Integration, Continuous Deployment, and Continuous Delivery.
 
-•	Production experience with AWS and GCP as a cloud provider using IaC tools such as Terraform. Creating and managing highly available, fault-tolerant, secure, 
-  and cost-efficient cloud infrastructure.
+•	Production experience with AWS and GCP as a cloud provider using IaC tools such as Terraform. Creating and managing highly available,
+  fault-tolerant, secure, and cost-efficient cloud infrastructure.
 
 TECHNICAL SKILLS:
 
