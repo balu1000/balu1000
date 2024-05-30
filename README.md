@@ -58,14 +58,21 @@ Responsibilities:
 
 •Tools:  Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
 
+******************************
+
 Energouchet Ltd
 August 2014 - January 2022
 Project Role: SysOps engineer
 Customer Domain: Sales
 Team size: 1-2 members
 
+Responsibilities:
 
-Private cloud virtualization ESXI,
+•	General Availability means fully supported and ready for in-production workloads in time.
+
+•	Monitoring and logging system.
+
+•Tools:  Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
 
 EDUCATION:
 Specialist in Engineering, 2005
