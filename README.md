@@ -20,7 +20,7 @@ Focused on Cloud Native Solutions Architecture, Devops.
 
 15+ years in IT & Telecom industry
 
-Certified with honor Basics of DevOps and Kubernetes Global Logic, author Denys Vasyliev Senior SRE/DevOps DevOps/SRE/Kubernetes Coach.
+Certified with honor, Basics of DevOps and Kubernetes Global Logic, author Denys Vasyliev Senior SRE/DevOps DevOps/SRE/Kubernetes Coach.
 https://certs.prometheus.org.ua/cert/e4432b950213416dadc477feb651ffc5
 
 ******************************
