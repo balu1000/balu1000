@@ -51,7 +51,7 @@ Responsibilities:
 
 •	General Availability means fully supported and ready for in-production workloads in time.
 
-•	Monitoring and logging system improvements allow us to obtain all needed information meaningfully. For all alerts, runbooks have been written with step-by-step instructions on how to fix a problem.
+•	Monitoring and logging system.
 
 •Tools:  Kubernetes, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI).
 
