@@ -174,6 +174,24 @@ Responsibilities:
 
 ******************************
 
+Alpo corp OSS+
+December 2006 - 2007
+Project Role: Lead SysOps engineer
+Customer Domain: building
+Team size: 3-12 members
+
+Responsibilities:
+
+•	Installing digital road signs on the Boryspil - Kyiv highway.
+
+•	Installing Optical fiber network.
+
+•	Setting up a VPN and network.
+
+• Tools:  Linux, Windows server, Network, Gateway, VPN, Windows server.
+
+******************************
+
 
 
 
