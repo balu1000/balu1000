@@ -200,7 +200,7 @@ Team size: 10-20 members
 
 Responsibilities:
 
-•	Setting up and programming digital PBX.
+•	Setting up and programming digital PBX SI2000 Iskratel, EWSD.
 
 •	Installation of PBX equipment..
 
