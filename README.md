@@ -59,7 +59,7 @@ Technologies:
 
 WORK EXPERIENCE (SAMPLE PROJECT DESCRIPTION):
 
-•Factor IT Ltd
+• Factor IT Ltd
 
 January 2022 - now
 Project Role: DevOps engineer
@@ -76,7 +76,7 @@ Responsibilities:
 
 ******************************
 
-•Energouchet Ltd
+• Energouchet Ltd
 
 August 2014 - January 2022
 Project Role: SysOps engineer
@@ -93,7 +93,7 @@ Responsibilities:
 
 ******************************
 
-•Kulinichi bakery complex
+• Kulinichi bakery complex
 
 August 2013 - 2014
 Project Role: SysOps engineer
@@ -110,7 +110,7 @@ Responsibilities:
 
 ******************************
 
-•Freelance
+• Freelance
 
 December 2012 - 2013
 Project Role: SysOps engineer
@@ -129,7 +129,7 @@ Responsibilities:
 
 ******************************
 
-•Kharkiv Palace Hotel
+• Kharkiv Palace Hotel
 
 December 2010 - December 2012
 Project Role: Lead engineer
@@ -152,7 +152,7 @@ Responsibilities:
 
 ******************************
 
-•IBOX pay system
+• IBOX pay system
 
 December 2008 - 2010
 Project Role: Sysops engineer
@@ -171,7 +171,7 @@ Responsibilities:
 
 ******************************
 
-•Siestel
+• Siestel
 
 December 2007 - 2008
 Project Role: Optical fiber engineer
@@ -190,7 +190,7 @@ Responsibilities:
 
 ******************************
 
-•Alpo corp OSS+
+• Alpo corp OSS+
 
 December 2006 - 2007
 Project Role: Lead SysOps engineer
@@ -209,7 +209,7 @@ Responsibilities:
 
 ******************************
 
-•Monis
+• Monis
 
 December 2004 - 2006
 Project Role: VoIP engineer
