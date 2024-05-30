@@ -60,13 +60,9 @@ Technologies:
 WORK EXPERIENCE (SAMPLE PROJECT DESCRIPTION):
 
 • Factor IT Ltd
-
 January 2022 - now
-
 Project Role: DevOps engineer
-
 Customer Domain: Sales
-
 Team size: 6-8 members
 
 Responsibilities:
