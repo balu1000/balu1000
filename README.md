@@ -76,10 +76,10 @@ Responsibilities:
 
 • Energouchet Ltd
 
-August 2014 - January 2022
-Project Role: SysOps engineer
-Customer Domain: Sales
-Team size: 1-2 members
+• August 2014 - January 2022
+• Project Role: SysOps engineer
+• Customer Domain: Sales
+• Team size: 1-2 members
 
 Responsibilities:
 
