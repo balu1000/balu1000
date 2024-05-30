@@ -49,14 +49,11 @@ Team size: 6-8 members
 
 Responsibilities:
 
-•	Brought JupyterHub, Airflow, and Kubernetes to General Availability means fully supported and ready for in-production workloads in time.
+•	General Availability means fully supported and ready for in-production workloads in time.
 
 •	Monitoring and logging system improvements allow us to obtain all needed information meaningfully. For all alerts, runbooks have been written with step-by-step instructions on how to fix a problem.
 
-•	Create workflows using Hashicorp Vault, Jupyterhub, and Airflow service accounts.
-
-•	Improve monitoring and alerting system (PagerDuty & Datadog)
-Tools:  Kubernetes, Prometheus, Python, Go, Docker, Git, GitHub,  Airflow, Jupyter.
+•Tools:  Kubernetes, Prometheus, Python, Go, Docker, Git, GitHub,  Airflow, Jupyter.
 
 EDUCATION:
 Specialist in Engineering, 2005
