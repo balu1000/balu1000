@@ -14,6 +14,8 @@ SUMMARY:
   
   fault-tolerant, secure, and cost-efficient cloud infrastructure.
 
+******************************
+
 TECHNICAL SKILLS:
 
 Engineering practices:
@@ -26,6 +28,8 @@ Engineering practices:
 •	Infrastructure Monitoring Services
 •	SDLC Methodologies
 •	Cloud security
+
+******************************
 
 Technologies:
 •	Git
@@ -41,6 +45,8 @@ Technologies:
 •	Go Language
 •	VPN
 •	IP network
+
+******************************
 
 WORK EXPERIENCE (SAMPLE PROJECT DESCRIPTION):
 
