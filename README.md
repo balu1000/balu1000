@@ -82,6 +82,23 @@ Responsibilities:
 
 ******************************
 
+Kulinichi bakery complex
+August 2013 - 2014
+Project Role: SysOps engineer
+Customer Domain: Sales
+Team size: 3-4 members
+
+Responsibilities:
+
+•	General Availability means fully supported and ready for in-production workloads in time.
+
+•	Monitoring and logging system.
+
+•Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
+
+******************************
+
+
 EDUCATION:
 Specialist in Engineering, 2005
 
