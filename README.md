@@ -39,6 +39,8 @@ Technologies:
 •	Python
 •	Bash
 •	Go Language
+•	VPN
+•	IP network
 
 WORK EXPERIENCE (SAMPLE PROJECT DESCRIPTION):
 
@@ -53,7 +55,7 @@ Responsibilities:
 
 •	Monitoring and logging system.
 
-•Tools:  Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup.
+•Tools:  Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
 
 EDUCATION:
 Specialist in Engineering, 2005
