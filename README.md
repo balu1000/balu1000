@@ -95,9 +95,9 @@ Responsibilities:
 • Kulinichi bakery complex
 
 August 2013 - 2014
-Project Role: SysOps engineer
-Customer Domain: Sales
-Team size: 3-4 members
+• Project Role: SysOps engineer
+• Customer Domain: Sales
+• Team size: 3-4 members
 
 Responsibilities:
 
@@ -112,9 +112,9 @@ Responsibilities:
 • Freelance
 
 December 2012 - 2013
-Project Role: SysOps engineer
-Customer Domain: Sales
-Team size: 1-2 members
+• Project Role: SysOps engineer
+• Customer Domain: Sales
+• Team size: 1-2 members
 
 Responsibilities:
 
@@ -131,9 +131,9 @@ Responsibilities:
 • Kharkiv Palace Hotel
 
 December 2010 - December 2012
-Project Role: Lead engineer
-Customer Domain: Sales
-Team size: 3-4 members
+• Project Role: Lead engineer
+• Customer Domain: Sales
+• Team size: 3-4 members
 
 Responsibilities:
 
@@ -154,9 +154,9 @@ Responsibilities:
 • IBOX pay system
 
 December 2008 - 2010
-Project Role: Sysops engineer
-Customer Domain: Service
-Team size: 2-3 members
+• Project Role: Sysops engineer
+• Customer Domain: Service
+• Team size: 2-3 members
 
 Responsibilities:
 
@@ -173,9 +173,9 @@ Responsibilities:
 • Siestel
 
 December 2007 - 2008
-Project Role: Optical fiber engineer
-Customer Domain: Service
-Team size: 1-2 members
+• Project Role: Optical fiber engineer
+• Customer Domain: Service
+• Team size: 1-2 members
 
 Responsibilities:
 
@@ -192,9 +192,9 @@ Responsibilities:
 • Alpo corp OSS+
 
 December 2006 - 2007
-Project Role: Lead SysOps engineer
-Customer Domain: building
-Team size: 3-12 members
+• Project Role: Lead SysOps engineer
+• Customer Domain: building
+• Team size: 3-12 members
 
 Responsibilities:
 
@@ -211,9 +211,9 @@ Responsibilities:
 • Monis
 
 December 2004 - 2006
-Project Role: VoIP engineer
-Customer Domain: telecom
-Team size: 10-20 members
+• Project Role: VoIP engineer
+• Customer Domain: telecom
+• Team size: 10-20 members
 
 Responsibilities:
 
