@@ -59,7 +59,8 @@ Technologies:
 
 WORK EXPERIENCE (SAMPLE PROJECT DESCRIPTION):
 
-Factor IT Ltd
+•Factor IT Ltd•
+
 January 2022 - now
 Project Role: DevOps engineer
 Customer Domain: Sales
@@ -75,7 +76,8 @@ Responsibilities:
 
 ******************************
 
-Energouchet Ltd
+•Energouchet Ltd•
+
 August 2014 - January 2022
 Project Role: SysOps engineer
 Customer Domain: Sales
@@ -91,7 +93,8 @@ Responsibilities:
 
 ******************************
 
-Kulinichi bakery complex
+•Kulinichi bakery complex•
+
 August 2013 - 2014
 Project Role: SysOps engineer
 Customer Domain: Sales
