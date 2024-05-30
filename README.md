@@ -138,6 +138,24 @@ Responsibilities:
 
 ******************************
 
+IBOX pay system
+December 2009 - 2010
+Project Role: Sysops engineer
+Customer Domain: Service
+Team size: 2-3 members
+
+Responsibilities:
+
+•	Setting up a VPN and network.
+
+•	General Availability means fully supported and ready for in-production workloads in time.
+
+•	Monitoring and logging system.
+
+•Tools:  Linux, Windows server, Network, Gateway, VPN.
+
+******************************
+
 
 
 EDUCATION:
