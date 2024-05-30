@@ -62,7 +62,7 @@ Responsibilities:
 
 •	Monitoring and logging system.
 
-•Tools:  Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
+• Tools:  Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
 
 ******************************
 
@@ -78,7 +78,7 @@ Responsibilities:
 
 •	Monitoring and logging system.
 
-•Tools:  Python, Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
+• Tools:  Python, Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
 
 ******************************
 
@@ -94,7 +94,7 @@ Responsibilities:
 
 •	Monitoring and logging system.
 
-•Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
+• Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
 
 ******************************
 
@@ -112,7 +112,7 @@ Responsibilities:
 
 •	Setting up a VPN and network.
 
-•Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
+• Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
 
 ******************************
 
@@ -134,12 +134,12 @@ Responsibilities:
 
 •	Monitoring and logging system.
 
-•Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server, Cluster servers, Network, Gateway, VPN.
+• Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server, Cluster servers, Network, Gateway, VPN.
 
 ******************************
 
 IBOX pay system
-December 2009 - 2010
+December 2008 - 2010
 Project Role: Sysops engineer
 Customer Domain: Service
 Team size: 2-3 members
@@ -152,9 +152,28 @@ Responsibilities:
 
 •	Monitoring and logging system.
 
-•Tools:  Linux, Windows server, Network, Gateway, VPN.
+• Tools:  Linux, Windows server, Network, Gateway, VPN.
 
 ******************************
+
+Siestel
+December 2007 - 2008
+Project Role: Optical fiber engineer
+Customer Domain: Service
+Team size: 1-2 members
+
+Responsibilities:
+
+•	Installing Optical fiber network.
+
+•	Setting up a VPN and network.
+
+•	General Availability means fully supported and ready for in-production workloads in time.
+
+• Tools:  Linux, Windows server, Network, Gateway, VPN.
+
+******************************
+
 
 
 
