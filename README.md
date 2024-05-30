@@ -110,7 +110,7 @@ Responsibilities:
 
 •	Installing virtualization software.
 
-•	Setting up a VPN атв network.
+•	Setting up a VPN and network.
 
 •Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
 
