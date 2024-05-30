@@ -116,6 +116,28 @@ Responsibilities:
 
 ******************************
 
+Kharkiv Palace Hotel
+December 2010 - December 2012
+Project Role: Lead engineer
+Customer Domain: Sales
+Team size: 3-4 members
+
+Responsibilities:
+
+•	Server installation.
+
+•	Installing virtualization software.
+
+•	Setting up a VPN and network.
+
+•	General Availability means fully supported and ready for in-production workloads in time.
+
+•	Monitoring and logging system.
+
+•Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server, Cluster servers, Network, Gateway, VPN.
+
+******************************
+
 
 
 EDUCATION:
