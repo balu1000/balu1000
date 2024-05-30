@@ -98,6 +98,25 @@ Responsibilities:
 
 ******************************
 
+Freelance
+December 2012 - 2013
+Project Role: SysOps engineer
+Customer Domain: Sales
+Team size: 1-2 members
+
+Responsibilities:
+
+•	Server installation.
+
+•	Installing virtualization software.
+
+•	Іetting up a VPN атв network.
+
+•Tools:  Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
+
+******************************
+
+
 
 EDUCATION:
 Specialist in Engineering, 2005
