@@ -53,7 +53,7 @@ Responsibilities:
 
 •	Monitoring and logging system improvements allow us to obtain all needed information meaningfully. For all alerts, runbooks have been written with step-by-step instructions on how to fix a problem.
 
-•Tools:  Kubernetes, Prometheus, Python, Go, Docker, Git, GitHub,  Airflow, Jupyter.
+•Tools:  Kubernetes, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI).
 
 EDUCATION:
 Specialist in Engineering, 2005
