@@ -44,6 +44,7 @@ Technologies:
 
 WORK EXPERIENCE (SAMPLE PROJECT DESCRIPTION):
 
+Factor IT Ltd
 January 2022 - now
 Project Role: DevOps engineer
 Customer Domain: Sales
@@ -56,6 +57,15 @@ Responsibilities:
 •	Monitoring and logging system.
 
 •Tools:  Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup, Linux, Windows server.
+
+Energouchet Ltd
+August 2014 - January 2022
+Project Role: SysOps engineer
+Customer Domain: Sales
+Team size: 1-2 members
+
+
+Private cloud virtualization ESXI,
 
 EDUCATION:
 Specialist in Engineering, 2005
