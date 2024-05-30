@@ -53,7 +53,7 @@ Responsibilities:
 
 •	Monitoring and logging system.
 
-•Tools:  Kubernetes, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup.
+•Tools:  Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker, Git, GitHub, Gitlab, Jenkins, ArgoCD, Flux, AWS, GCP, Virtualization servers (Vmware ESXI), Veeam backup.
 
 EDUCATION:
 Specialist in Engineering, 2005
