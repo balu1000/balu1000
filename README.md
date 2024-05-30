@@ -188,7 +188,25 @@ Responsibilities:
 
 •	Setting up a VPN and network.
 
-• Tools:  Linux, Windows server, Network, Gateway, VPN, Windows server.
+• Tools:  Linux, Windows server, Network, Gateway, VPN.
+
+******************************
+
+Monis
+December 2004 - 2006
+Project Role: VoIP engineer
+Customer Domain: telecom
+Team size: 10-20 members
+
+Responsibilities:
+
+•	Setting up and programming digital PBX.
+
+•	Installation of PBX equipment..
+
+•	Setting up a VPN and network.
+
+• Tools:  Linux, Network, Gateway, VPN.
 
 ******************************
 
@@ -196,7 +214,7 @@ Responsibilities:
 
 
 EDUCATION:
-Specialist in Engineering, 2005
+Specialist in Engineering, 2004
 
 LANGUAGES:
 English A2
